@@ -1,2 +1,2 @@
 # Fronty-Tetris
-The good old Tetris game browser style 
+The good old Tetris game Front ended languaged browser style ;)
